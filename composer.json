@@ -1,0 +1,16 @@
+{
+  "name": "webix/webix-asset",
+  "description": "Asset for Webix Library",
+  "keywords": ["webix","yii2","asset"],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "DHTMLX\\Asset\\": "/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0",
+    "bower-asset/webix": "*"
+  }
+}
