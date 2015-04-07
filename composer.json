@@ -5,7 +5,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Webix\\Asset\\": "/"
+      "Webix\\Asset\\": "src/"
     }
   },
   "minimum-stability": "stable",
